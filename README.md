@@ -5,7 +5,9 @@
 
 ## Install
 
-npm install --save gql-now
+```sh
+npm install --save github:fasih/gql-now
+```
 
 ## Usage
 
